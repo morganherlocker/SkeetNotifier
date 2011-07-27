@@ -11,8 +11,8 @@ namespace SkeetNotifier
         [STAThread]
         static void Main()
         {
-            AppDomain.CurrentDomain.UnhandledException += (s, a) => _logger.Error(a.ExceptionObject);
-            Application.ThreadException += (s, a) => _logger.Error(a.Exception);
+        //    AppDomain.CurrentDomain.UnhandledException += (s, a) => _logger.Error(a.ExceptionObject);
+        //    Application.ThreadException += (s, a) => _logger.Error(a.Exception);
 
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
