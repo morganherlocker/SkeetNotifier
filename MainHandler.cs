@@ -11,7 +11,7 @@ using System.Text;
 using System.Windows.Forms;
 using Helper;
 using Helper.Extensions;
-using NLog;
+//using NLog;
 using Newtonsoft.Json;
 using SkeetNotifier.Properties;
 
@@ -23,7 +23,7 @@ namespace SkeetNotifier
         readonly BackgroundWorker _backgroundWorker = new BackgroundWorker();
         readonly Timer _updateTimer = new Timer{Interval = (int)new TimeSpan(0,10,0).TotalMilliseconds,Enabled = true};
 
-        private static readonly Logger _logger = LogManager.GetCurrentClassLogger();
+   //     private static readonly Logger _logger = LogManager.GetCurrentClassLogger();
 
         static bool _running;
 
@@ -121,7 +121,7 @@ namespace SkeetNotifier
         {
             if (e.Error != null)
             {
-                _logger.Error(e.Error);
+   //             _logger.Error(e.Error);
                 MessageBox.Show(e.Error.Message);
                 return;
             }

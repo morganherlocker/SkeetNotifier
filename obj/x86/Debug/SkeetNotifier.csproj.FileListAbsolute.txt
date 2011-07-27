@@ -1,0 +1,16 @@
+U:\SkeetNotifier\bin\Debug\SkeetNotifier.exe.config
+U:\SkeetNotifier\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\SkeetNotifier\obj\x86\Debug\SkeetNotifier.Properties.Resources.resources
+U:\SkeetNotifier\obj\x86\Debug\GenerateResource.read.1.tlog
+U:\SkeetNotifier\obj\x86\Debug\GenerateResource.write.1.tlog
+U:\SkeetNotifier\bin\Debug\NLog.config
+U:\SkeetNotifier\bin\Debug\SkeetNotifier.exe.manifest
+U:\SkeetNotifier\bin\Debug\SkeetNotifier.application
+U:\SkeetNotifier\bin\Debug\SkeetNotifier.exe
+U:\SkeetNotifier\bin\Debug\SkeetNotifier.pdb
+U:\SkeetNotifier\bin\Debug\Helper.dll
+U:\SkeetNotifier\bin\Debug\Newtonsoft.Json.dll
+U:\SkeetNotifier\obj\x86\Debug\SkeetNotifier.exe.manifest
+U:\SkeetNotifier\obj\x86\Debug\SkeetNotifier.application
+U:\SkeetNotifier\obj\x86\Debug\SkeetNotifier.exe
+U:\SkeetNotifier\obj\x86\Debug\SkeetNotifier.pdb
