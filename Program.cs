@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Windows.Forms;
-using NLog;
+//using NLog;
 
 namespace SkeetNotifier
 {
     static class Program
     {
-        static readonly Logger _logger = LogManager.GetCurrentClassLogger();
+  //      static readonly Logger _logger = LogManager.GetCurrentClassLogger();
 
         [STAThread]
         static void Main()
